@@ -6,11 +6,6 @@ This project builds an End-to-End Azure Data Engineering Solution. A Pipeline pe
 
 The goal is to create an Azure solution which can take an On-premise Database such as the Microsoft SQL Server Management System (SSMS) and move it to the Cloud. It does so by building an ETL pipeline using Azure Data Factory, Azure Databricks and Azure Synapse Analytics.
 
-This solution can be connected to a visualization and reporting dashboard using Microsoft Power BI.
-
-![image](https://github.com/zBalachandar/AdventureWorks-Sales-Data-Analytics-Azure-Data-Engineering-End-to-End-Project/blob/main/pix/Arc%20img%202.png)
-
-
 Data Migration to the Cloud is one of the most common scenarios the Data Engineers encounter when building solutions for a small-medium organization.
 By working on this project, I was able to learn these skills:
 
